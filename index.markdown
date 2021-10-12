@@ -21,7 +21,7 @@ L'agenda est le suivant:
 
 🕐 Accueil à 19h15, début à 19h30 (pétante), fin à 20h30 questions incluses
 
-🍷 À partir de 20h30 pour ceux qui le souhaitent
+🍷 Verre à partir de 20h30 pour ceux qui le souhaitent
 
 *Vous souhaitez être informés des prochaines interventions automatiquement ? Vous pouvez vous inscrire sur notre mailing list. Vous pourrez aussi vous désincrire d'un simple clic.*
 
