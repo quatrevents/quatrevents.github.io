@@ -5,10 +5,7 @@
 layout: home
 ---
 
-# Prochaine invitée
-
 Notre prochain invitée sera ... 🥁... XXX, le **Date**
-
 
 *Si vous pensez venir, cela nous aiderait beaucoup de le savoir même si vous n'êtes pas encore tout à fait certains (c'est pour réserver la salle, pas pour vous surveiller, promis !).*
 
