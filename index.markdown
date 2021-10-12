@@ -11,7 +11,7 @@ Notre prochain invitée sera ... 🥁... XXX, le **Date**
 
 *Si vous pensez venir, cela nous aiderait beaucoup de le savoir même si vous n'êtes pas encore tout à fait certains (c'est pour réserver la salle, pas pour vous surveiller, promis !).*
 
-📝 [Formulaire d'inscription](https://forms.gle/puDFQjfxodSyBej88)
+📝 [Formulaire d'inscription](https://forms.gle/puDFQjfxodSyBej88){:target="_blank"}
 
 ## Informations générales 
 
@@ -25,7 +25,7 @@ L'agenda est le suivant:
 
 *Vous souhaitez être informés des prochaines interventions automatiquement ? Vous pouvez vous inscrire sur notre mailing list. Vous pourrez aussi vous désincrire d'un simple clic.*
 
-📝 [S'inscrire sur la *mailing list*](https://forms.gle/FN4UTvceSnc6Zb9K7)
+📝 [S'inscrire sur la *mailing list*](https://forms.gle/FN4UTvceSnc6Zb9K7){:target="_blank"}
 
 # Anciennes présentations
 
