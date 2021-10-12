@@ -5,7 +5,7 @@
 layout: home
 ---
 
-# Prochain événements
+## Prochain événements
 
 Notre prochain invitée sera ... 🥁... XXX, le **Date**
 
@@ -27,9 +27,9 @@ L'agenda est le suivant:
 
 📝 [S'inscrire sur la *mailing list*](https://forms.gle/FN4UTvceSnc6Zb9K7){:target="_blank"}
 
-# Anciennes présentations
+## Anciennes présentations
 
-## Catala: un langage pour les algorithmes publics
+### Catala: un langage pour les algorithmes publics
 
 par *Denis Merigoux* et *Liane Huttner*
 
