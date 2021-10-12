@@ -6,7 +6,7 @@ title:
 layout: home
 ---
 
-## Prochain événements
+## Prochain événement
 
 Notre prochain invitée sera ... 🥁... XXX, le **Date**
 
