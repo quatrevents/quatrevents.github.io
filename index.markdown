@@ -5,13 +5,15 @@
 layout: home
 ---
 
+# Prochain événements
+
 Notre prochain invitée sera ... 🥁... XXX, le **Date**
 
 *Si vous pensez venir, cela nous aiderait beaucoup de le savoir même si vous n'êtes pas encore tout à fait certains (c'est pour réserver la salle, pas pour vous surveiller, promis !).*
 
 📝 [Formulaire d'inscription](https://forms.gle/puDFQjfxodSyBej88)
 
-# Informations générales 
+## Informations générales 
 
 L'agenda est le suivant:
 
