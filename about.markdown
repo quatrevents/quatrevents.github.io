@@ -12,10 +12,11 @@ En septembre 2021 (oui c'est vraiment récent !) on a organisé une première so
 
 Ces présentations n'ont que la prétention d'apprendre d'autres, et surtout de domaines que nous ne connaissons pas.
 
-Dans le cas où vous seriez intéressés notre prochain invitée sera ... 🥁... XXX.
-
 Au plaisir de vous retrouver !
 
 Béné & Marc 
 
 *Gentils Organisateurs sur leur temps libre*
+
+
+
