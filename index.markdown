@@ -10,11 +10,11 @@ layout: home
 >
 >Notre prochain invitée sera ... 🥁... **Julie Duprat** !
 >
->*Julie est archiviste paléographe et conservatrice des bibliothèques, diplômée de l’École nationale des chartes, et va nous présenter ses travaux sur*
+>Julie est archiviste paléographe et conservatrice des bibliothèques, diplômée de l’École nationale des chartes, et va nous présenter ses travaux sur:
 >
->**Bordeaux noir, esclaves et affranchis au XVIIIème siècle**
+>**Bordeaux noir: esclaves et affranchis au XVIIIème siècle**
 >
->*Si vous pensez venir, cela nous aiderait beaucoup de le savoir même si vous n'êtes pas encore tout à fait certains (c'est pour réserver la salle, pas pour vous surveiller, promis !).*
+>Si vous pensez venir, cela nous aiderait beaucoup de le savoir même si vous n'êtes pas encore tout à fait certains (c'est pour réserver la salle, pas pour vous surveiller, promis !).
 >
 >📝 [Formulaire d'inscription](https://forms.gle/puDFQjfxodSyBej88){:target="_blank"}
 
@@ -55,4 +55,4 @@ L'agenda est le suivant:
 
 par *Denis Merigoux* et *Liane Huttner*
 
-La vidéo de leur intervention est disponible [ici].
+La vidéo de leur intervention sera bientôt disponible.
