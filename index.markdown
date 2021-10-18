@@ -6,10 +6,9 @@ title: Mardi 26 octobre
 layout: home
 ---
 
-Prochain événement le mardi 26 octobre, autour de
+Au programme pour notre prochaine conférence 🥁
 
-## Bordeaux noir: esclaves et affranchis au XVIIIème siècle
-
+# Bordeaux noir: esclaves et affranchis au XVIIIème siècle
 
 par **Julie Duprat**, archiviste paléographe et conservatrice des bibliothèques, diplômée de l’École nationale des Chartes.
  
