@@ -6,17 +6,29 @@ title:
 layout: home
 ---
 
->## Prochain événement le mardi 26 octobre 
->
->Notre prochain invitée sera ... 🥁... **Julie Duprat** !
->
->Julie est archiviste paléographe et conservatrice des bibliothèques, diplômée de l’École nationale des chartes, et va nous présenter ses travaux sur:
->
->**Bordeaux noir: esclaves et affranchis au XVIIIème siècle**
->
->Si vous pensez venir, cela nous aiderait beaucoup de le savoir même si vous n'êtes pas encore tout à fait certains (c'est pour réserver la salle, pas pour vous surveiller, promis !).
->
->📝 [Formulaire d'inscription](https://forms.gle/puDFQjfxodSyBej88){:target="_blank"}
+# Prochain événement le mardi 26 octobre 
+
+## Bordeaux noir: esclaves et affranchis au XVIIIème siècle
+
+
+par **Julie Duprat**, archiviste paléographe et conservatrice des bibliothèques, diplômée de l’École nationale des Chartes.
+ 
+📚 On en profite pour vous dire que le livre de Julie vient tout juste de sortir aux éditions Mollat ! Vous pourrez le trouver sur la [place des libraires](https://www.placedeslibraires.fr/livre/9782358770262-bordeaux-metisse-esclaves-et-affranchis-du-xviiie-a-l-empire-julie-duprat/){:target="_blank"} ou bien sur le site de la [fnac](https://livre.fnac.com/a16180917/Julie-Duprat-Bordeaux-Metisse-Esclaves-et-Affranchis-du-XVIIIe-a-l-Empire){:target="_blank"}.
+
+<figure class="item">
+<div style="text-align: center"><img src="julie_duprat_livre.jpeg" height="500" /></div>
+  <figcaption class="name visuals"></figcaption>
+</figure>
+
+
+ 
+
+<p>&nbsp;</p>
+
+
+📝 [Formulaire d'inscription pour le 26 octobre](https://forms.gle/puDFQjfxodSyBej88){:target="_blank"}
+
+<font size="2">  Si vous pensez venir, cela nous aiderait beaucoup de le savoir même si vous n'êtes pas encore tout à fait certains (c'est pour réserver la salle, pas pour vous surveiller, promis !).  </font>
 
 <p>&nbsp;</p>
 ---
@@ -49,10 +61,10 @@ L'agenda est le suivant:
 ---
 <p>&nbsp;</p>
 
-## Anciennes présentations
+## Ancienne présentation
 
 ### Catala: un langage pour les algorithmes publics
 
-par *Denis Merigoux* et *Liane Huttner*
+*Liane Huttner*, doctorante à l'Université Paris 1 Panthéon-Sorbonne, et *Denis Merigoux*, doctorant à Inria, nous ont présenté leurs travaux sur Catala, un language à la frontière entre le language du juriste et le language de l'ordinateur. Ils nous présentent leur application sur le code des impôts.
 
-La vidéo de leur intervention sera bientôt disponible.
+La vidéo de leur intervention est disponible [ici](https://www.youtube.com/watch?v=xTI6NS6vNfY){:target="_blank"}.
