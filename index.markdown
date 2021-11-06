@@ -2,30 +2,24 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-title: Mardi 26 octobre
+title: Mardi 30 novembre
 layout: home
 ---
 
 Au programme pour notre prochaine conférence 🥁
 
-# Bordeaux noir: esclaves et affranchis au XVIIIème siècle
+## IA en santé : mythes et réalités
 
-par **Julie Duprat**, archiviste paléographe et conservatrice des bibliothèques, diplômée de l’École nationale des Chartes.
- 
-📚 On en profite pour vous dire que le livre de Julie vient tout juste de sortir aux éditions Mollat ! Vous pourrez le trouver sur la [place des libraires](https://www.placedeslibraires.fr/livre/9782358770262-bordeaux-metisse-esclaves-et-affranchis-du-xviiie-a-l-empire-julie-duprat/){:target="_blank"} ou bien sur le site de la [fnac](https://livre.fnac.com/a16180917/Julie-Duprat-Bordeaux-Metisse-Esclaves-et-Affranchis-du-XVIIIe-a-l-Empire){:target="_blank"}.
+par [Théo Ryffel](https://twitter.com/theoryffel?lang=fr), doctorant à l'Inria et co-fondateur de [Arkhn](https://arkhn.com/).
 
-<figure class="item">
-<div style="text-align: center"><img src="julie_duprat_livre.jpeg" height="500" /></div>
-  <figcaption class="name visuals"></figcaption>
-</figure>
-
+> « Données de santé, un trésor très convoité... mais sous-exploité », titrait un mensuel d’octobre 2021. De nombreux médias se font l’écho de cette vision : il en va des données comme d’un trésor brut que l’IA pourrait révéler, impactant en profondeur la recherche et le soin. Cette promesse n’est malheureusement que trop rarement tenue. Des garde fous juridiques nécessaires aux obstacles techniques inhérents au système actuel, les causes sont nombreuses pour expliquer ce constat d’échec. Cet échange vise à apporter un éclairage sur ces enjeux, et à proposer des clés pour transformer la vision d’un trésor bien gardé en un bien partagé.
 
  
 
 <p>&nbsp;</p>
 
 
-📝 [Formulaire d'inscription pour le 26 octobre](https://forms.gle/puDFQjfxodSyBej88){:target="_blank"}
+📝 [Formulaire d'inscription pour le 30 novembre](https://forms.gle/xw6FKEZfPxxim2vb7){:target="_blank"}
 
 <font size="2">  Si vous pensez venir, cela nous aiderait beaucoup de le savoir même si vous n'êtes pas encore tout à fait certains (c'est pour réserver la salle, pas pour vous surveiller, promis !).  </font>
 
@@ -60,7 +54,19 @@ L'agenda est le suivant:
 ---
 <p>&nbsp;</p>
 
-## Ancienne présentation
+## Anciennes présentations
+
+***
+<p>&nbsp;</p>
+
+### Bordeaux noir: esclaves et affranchis au XVIIIème siècle
+
+*Julie Duprat*, archiviste paléographe et conservatrice des bibliothèques, diplômée de l’École nationale des Chartes, nous a présenté son travail historique sur la présence de communautés métisses dans le Bordeaux du XVIIIe. D'ailleurs le livre de Julie vient tout juste de sortir aux éditions Mollat ! Vous pourrez le trouver sur la [place des libraires](https://www.placedeslibraires.fr/livre/9782358770262-bordeaux-metisse-esclaves-et-affranchis-du-xviiie-a-l-empire-julie-duprat/){:target="_blank"} ou bien sur le site de la [fnac](https://livre.fnac.com/a16180917/Julie-Duprat-Bordeaux-Metisse-Esclaves-et-Affranchis-du-XVIIIe-a-l-Empire){:target="_blank"}. 📚
+
+La vidéo de son intervention sera bientôt disponible.
+ 
+***
+<p>&nbsp;</p>
 
 ### Catala: un langage pour les algorithmes publics
 
