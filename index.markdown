@@ -19,7 +19,7 @@ C'est le printemps, et le moment où les Quatre Vents renaissent des frimas hive
 
 > Futurs énergétiques : quel mix de production d'électricité vers la neutralité climatique ? ⚡️
 
->Si vous l'aviez manqué, RTE a publié fin 2021 une étude 'Futurs énergétiques 2050'. Cette étude vise à proposer des éléments pour éclairer le débat public sur les scénarios de mix de production d'électricité avec pour objectif la neutralité climatique en 2050. 100% renouvelable, nucléaire, stockage, sobriété... La session sera animée par Etienne qui a eu l'occasion de contribuer à cette étude. Elle sera l'occasion de présenter certains enseignements de l'étude qui peuvent être utiles en période électorale, alors que le GIEC a sorti un nouveau rapport, que les prix de l'énergie augmentent et que la guerre en Ukraine remet en lumière notre dépendance aux énergies fossiles. Ca promet d'être passionnant ! 🌍
+>Si vous l'aviez manqué, RTE a publié fin 2021 une étude 'Futurs énergétiques 2050'. Cette étude vise à proposer des éléments pour éclairer le débat public sur les scénarios de mix de production d'électricité avec pour objectif la neutralité climatique en 2050. 100% renouvelable, nucléaire, stockage, sobriété... La session sera animée par Etienne qui a eu l'occasion de contribuer à cette étude. Elle sera l'occasion de présenter certains enseignements de l'étude qui peuvent être utiles en période électorale, alors que le GIEC a sorti un nouveau rapport, que les prix de l'énergie augmentent et que la guerre en Ukraine remet en lumière notre dépendance aux énergies fossiles.  🌍
 
 
 
