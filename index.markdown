@@ -26,7 +26,7 @@ C'est le printemps, et le moment où les Quatre Vents renaissent des frimas hive
 <p>&nbsp;</p>
 
 
-📝 [Formulaire d'inscription pour le 12 Avril](https://forms.gle/t9CGXaTzHweasaXC6){:target="_blank"}
+📝 [Formulaire d'inscription pour le 12 Avril](https://docs.google.com/forms/d/e/1FAIpQLSem2mNgxmTPrye7jybcGTz03viXFUT8VAw0GIcGp2v_8ySGIg/viewform?usp=pp_url){:target="_blank"}
 
 <font size="2">  Si vous pensez venir, cela nous aiderait beaucoup de le savoir même si vous n'êtes pas encore tout à fait certains (c'est pour réserver la salle, pas pour vous surveiller, promis !).  </font>
 
