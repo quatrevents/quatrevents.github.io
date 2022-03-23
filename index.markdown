@@ -25,7 +25,7 @@ Si vous l'aviez manqué, RTE a publié fin 2021 une étude 'Futurs énergétique
 <p>&nbsp;</p>
 
 
-📝 [Formulaire d'inscription pour le 12 Avril](Ingénieur chez RTE (Réseau de Transport d'Electricité)){:target="_blank"}
+📝 [Formulaire d'inscription pour le 12 Avril](https://forms.gle/t9CGXaTzHweasaXC6){:target="_blank"}
 
 <font size="2">  Si vous pensez venir, cela nous aiderait beaucoup de le savoir même si vous n'êtes pas encore tout à fait certains (c'est pour réserver la salle, pas pour vous surveiller, promis !).  </font>
 
