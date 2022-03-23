@@ -67,9 +67,7 @@ L'agenda est le suivant:
 
 ### IA en santé : mythes et réalités
 
-par [Théo Ryffel](https://twitter.com/theoryffel?lang=fr), doctorant à l'Inria et co-fondateur de [Arkhn](https://arkhn.com/).
-
-> « Données de santé, un trésor très convoité... mais sous-exploité », titrait un mensuel d’octobre 2021. De nombreux médias se font l’écho de cette vision : il en va des données comme d’un trésor brut que l’IA pourrait révéler, impactant en profondeur la recherche et le soin. Cette promesse n’est malheureusement que trop rarement tenue. Des garde fous juridiques nécessaires aux obstacles techniques inhérents au système actuel, les causes sont nombreuses pour expliquer ce constat d’échec. Cet échange vise à apporter un éclairage sur ces enjeux, et à proposer des clés pour transformer la vision d’un trésor bien gardé en un bien partagé.
+*Théo Ryffel*, doctorant à l'Inria et co-fondateur de [Arkhn](https://arkhn.com/) nous a parlé de sa vision sur les données de santé. Alors que de nombreux médias se font l’écho d'une équivalence entre les données de santé et d'un trésor à exploiter, cette promesse n’est malheureusement que trop rarement tenue. Des garde fous juridiques nécessaires aux obstacles techniques inhérents au système actuel, les causes sont nombreuses pour expliquer ce constat d’échec. Cet échange visait à apporter un éclairage sur ces enjeux, et à proposer des clés pour transformer la vision d’un trésor bien gardé en un bien partagé.
 
 Vidéo à venir.
 
