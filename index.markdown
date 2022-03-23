@@ -2,24 +2,29 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-title: Mardi 30 novembre
+title: Mardi 12 Avril 2022
 layout: home
 ---
 
-Au programme pour notre prochaine conférence 🥁
+C'est le printemps, et le moment où les Quatre Vents renaissent des frimas hivernaux !! Nous recommençons ce cycle avec une intervention passionnante d'Etienne, Ingénieur chez RTE (Réseau de Transport d'Electricité) 🥁
 
-## IA en santé : mythes et réalités
 
-par [Théo Ryffel](https://twitter.com/theoryffel?lang=fr), doctorant à l'Inria et co-fondateur de [Arkhn](https://arkhn.com/).
+## Futurs énergétiques 2050
 
-> « Données de santé, un trésor très convoité... mais sous-exploité », titrait un mensuel d’octobre 2021. De nombreux médias se font l’écho de cette vision : il en va des données comme d’un trésor brut que l’IA pourrait révéler, impactant en profondeur la recherche et le soin. Cette promesse n’est malheureusement que trop rarement tenue. Des garde fous juridiques nécessaires aux obstacles techniques inhérents au système actuel, les causes sont nombreuses pour expliquer ce constat d’échec. Cet échange vise à apporter un éclairage sur ces enjeux, et à proposer des clés pour transformer la vision d’un trésor bien gardé en un bien partagé.
+> Futurs énergétiques : quel mix de production d'électricité vers la neutralité climatique ? ⚡️
+Si vous l'aviez manqué, RTE a publié fin 2021 une étude 'Futurs énergétiques 2050'. Cette étude vise à proposer des éléments pour éclairer le débat public sur les scénarios de mix de production d'électricité avec pour objectif la neutralité climatique en 2050. 100% renouvelable, nucléaire, stockage, sobriété... La session sera animée par Etienne qui a eu l'occasion de contribuer à cette étude. Elle sera l'occasion de présenter certains enseignements de l'étude qui peuvent être utiles en période électorale, alors que le GIEC a sorti un nouveau rapport, que les prix de l'énergie augmentent et que la guerre en Ukraine remet en lumière notre dépendance aux énergies fossiles. Ca promet d'être passionnant ! 🌍
 
- 
+
+<figure class="item">
+<div style="text-align: center"><img src="etienne.jpeg" height="500" /></div>
+  <figcaption class="name visuals"></figcaption>
+</figure>
+
 
 <p>&nbsp;</p>
 
 
-📝 [Formulaire d'inscription pour le 30 novembre](https://forms.gle/xw6FKEZfPxxim2vb7){:target="_blank"}
+📝 [Formulaire d'inscription pour le 12 Avril](Ingénieur chez RTE (Réseau de Transport d'Electricité)){:target="_blank"}
 
 <font size="2">  Si vous pensez venir, cela nous aiderait beaucoup de le savoir même si vous n'êtes pas encore tout à fait certains (c'est pour réserver la salle, pas pour vous surveiller, promis !).  </font>
 
@@ -66,7 +71,8 @@ par [Théo Ryffel](https://twitter.com/theoryffel?lang=fr), doctorant à l'Inria
 
 > « Données de santé, un trésor très convoité... mais sous-exploité », titrait un mensuel d’octobre 2021. De nombreux médias se font l’écho de cette vision : il en va des données comme d’un trésor brut que l’IA pourrait révéler, impactant en profondeur la recherche et le soin. Cette promesse n’est malheureusement que trop rarement tenue. Des garde fous juridiques nécessaires aux obstacles techniques inhérents au système actuel, les causes sont nombreuses pour expliquer ce constat d’échec. Cet échange vise à apporter un éclairage sur ces enjeux, et à proposer des clés pour transformer la vision d’un trésor bien gardé en un bien partagé.
 
-Vidéo à venir!
+Vidéo à venir.
+
 
 ***
 <p>&nbsp;</p>
