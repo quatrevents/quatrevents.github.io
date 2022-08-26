@@ -2,31 +2,30 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-title: Mardi 12 Avril 2022
+title: Jeudi 8 Septembre 2022
 layout: home
 ---
 
-C'est le printemps, et le moment où les Quatre Vents renaissent des frimas hivernaux !! Nous recommençons ce cycle avec une intervention passionnante d'Etienne, Ingénieur chez RTE (Réseau de Transport d'Electricité) 🥁
+C'est la rentrée, et le moment où les Quatre Vents reviennent de pause ! Nous recommençons ce cycle avec une intervention passionnante d'[Adrien Burlacot](https://www.aburlacot.com/Hola), Directeur de laboratoire à Stanford.
 
 
-## Futurs énergétiques 2050
+## Bilan carbone et photosynthèse
 
 
 <figure class="item">
-<div style="text-align: center"><img src="etienne.jpeg" height="500" /></div>
+<div style="text-align: center"><img src="burlacot.png" height="500" /></div>
   <figcaption class="name visuals"></figcaption>
 </figure>
 
-> Futurs énergétiques : quel mix de production d'électricité vers la neutralité climatique ? ⚡️
+> A l’heure du bilan carbone, comment repenser les plan(te)s?
 
->Si vous l'aviez manqué, RTE a publié fin 2021 une étude 'Futurs énergétiques 2050'. Cette étude vise à proposer des éléments pour éclairer le débat public sur les scénarios de mix de production d'électricité avec pour objectif la neutralité climatique en 2050. 100% renouvelable, nucléaire, stockage, sobriété... La session sera animée par Etienne qui a eu l'occasion de contribuer à cette étude. Elle sera l'occasion de présenter certains enseignements de l'étude qui peuvent être utiles en période électorale, alors que le GIEC a sorti un nouveau rapport, que les prix de l'énergie augmentent et que la guerre en Ukraine remet en lumière notre dépendance aux énergies fossiles.  🌍
-
+>Les rejets anthropiques de CO2 dans l'atmosphère génèrent une crise climatique sans précédent qui force nos sociétés à décarboner nos modes de production d'énergie. La production d’energie “renouvelable” requier l’usage de terre, au dépend de la production agricole ou des écosystèmes. Pour atteindre les objectifs de transition, l’amélioration de la productivité des plantes cultivées est critique. Dans cette perspective, nous verrons comment et pourquoi l’amélioration de la photosynthèse, le processus responsable de la fixation du CO2 par les plantes, en est un levier majeur. Nous analyserons comment la compréhension des mécanismes moléculaires en jeux nous permet de proposer des nouveaux designs de photosynthèse capables de fixer plus de CO2 et d’augmenter les productivités de différentes espèces végétales.
 
 
 <p>&nbsp;</p>
 
 
-📝 [Formulaire d'inscription pour le 12 Avril](https://docs.google.com/forms/d/e/1FAIpQLSem2mNgxmTPrye7jybcGTz03viXFUT8VAw0GIcGp2v_8ySGIg/viewform?usp=pp_url){:target="_blank"}
+📝 [Formulaire d'inscription pour le 8 Septembre](https://forms.gle/rZsDRVwE5k1SkdV79){:target="_blank"}
 
 <font size="2">  Si vous pensez venir, cela nous aiderait beaucoup de le savoir même si vous n'êtes pas encore tout à fait certains (c'est pour réserver la salle, pas pour vous surveiller, promis !).  </font>
 
@@ -62,6 +61,14 @@ L'agenda est le suivant:
 <p>&nbsp;</p>
 
 ## Anciennes présentations
+
+***
+<p>&nbsp;</p>
+
+### Futurs énergétiques : quel mix de production d’électricité vers la neutralité climatique ?
+
+La session était animée par Etienne -- ingénieur chez RTE -- qui a eu l’occasion de contribuer à l'étude ‘Futurs énergétiques 2050’. Cette étude visait à proposer des éléments pour éclairer le débat public sur les scénarios de mix de production d’électricité avec pour objectif la neutralité climatique en 2050. 100% renouvelable, nucléaire, stockage, sobriété… ?  Alors que le GIEC a sorti un nouveau rapport, que les prix de l’énergie augmentent et que la guerre en Ukraine remet en lumière notre dépendance aux énergies fossiles, cette session a été l'occasion de penser ces questions.
+
 
 ***
 <p>&nbsp;</p>
