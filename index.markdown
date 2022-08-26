@@ -6,14 +6,14 @@ title: Jeudi 8 Septembre 2022
 layout: home
 ---
 
-C'est la rentrée, et le moment où les Quatre Vents reviennent de pause ! Nous recommençons ce cycle avec une intervention passionnante d'[Adrien Burlacot](https://www.aburlacot.com/Hola), Directeur de laboratoire à Stanford.
+C'est la rentrée, et le moment où les Quatre Vents reviennent de pause ! Nous recommençons ce cycle avec une intervention passionnante d'[Adrien Burlacot](https://www.aburlacot.com/Hola){:target="_blank"}, Directeur de laboratoire à Stanford.
 
 
 ## Bilan carbone et photosynthèse
 
 
 <figure class="item">
-<div style="text-align: center"><img src="burlacot.png" height="500" /></div>
+<div style="text-align: center"><img src="burlacot.png" height="300" /></div>
   <figcaption class="name visuals"></figcaption>
 </figure>
 
