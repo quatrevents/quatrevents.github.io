@@ -12,6 +12,11 @@ Les Quatre Vents sont de retours ! 🎉
 ## Simuler le patient pour mieux le guérir: quels nouveaux paradigmes pour la recherche pharmaceutique en oncologie?
 
 
+<figure class="item">
+<div style="text-align: center"><img src="gustave.png" height="400" /></div>
+  <figcaption class="name visuals"></figcaption>
+</figure>
+
 >La recherche pharmaceutique souffre de la loi d’Eroom, une loi de Moore inversée et qui se manifeste par une augmentation exponentielle du coût de mise sur le marché de nouvelles molécules. Ainsi en près de soixante ans, l'investissement moyen a augmenté de $100M à plus de $10B par traitement pour un taux de succès en clinique constant d’environ 5% en oncologie. Cette tendance est insoutenable pour les industriels et les systèmes de santé. Heureusement, de nouveaux outils biologiques et computationnels peuvent inverser la tendance. Le 7 février nous analyserons comment l’utilisation des organoides de patients - de petites structures 3D composées de cellules tumorales de patients et répliquant une partie des comportements de la tumeur d’origine chez le patient - nous permettront de développer la nouvelle génération de thérapies.
 
 
