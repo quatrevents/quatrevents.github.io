@@ -2,32 +2,25 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-title: Jeudi 8 Septembre 2022
+title: Mardi 7 Février 2023
 layout: home
 ---
 
-C'est la rentrée, et le moment où les Quatre Vents reviennent de pause ! Nous recommençons ce cycle avec une intervention passionnante d'[Adrien Burlacot](https://www.aburlacot.com/Hola){:target="_blank"}, Directeur de laboratoire à Stanford.
+Les Quatre Vents sont de retours avec une intervention de Gustave Ronteix. 
 
 
-## Bilan carbone et photosynthèse
+## Simuler le patient pour mieux le guérir: quels nouveaux paradigmes pour la recherche pharmaceutique en oncologie?
 
 
 <figure class="item">
-<div style="text-align: center"><img src="burlacot.png" height="300" /></div>
+<div style="text-align: center"><img src="gustave.png" height="400" /></div>
   <figcaption class="name visuals"></figcaption>
 </figure>
 
-> A l’heure du bilan carbone, comment repenser les plan(te)s?
-
->Les rejets anthropiques de CO2 dans l'atmosphère génèrent une crise climatique sans précédent qui force nos sociétés à décarboner nos modes de production d'énergie. La production d’energie “renouvelable” requier l’usage de terre, au dépend de la production agricole ou des écosystèmes. Pour atteindre les objectifs de transition, l’amélioration de la productivité des plantes cultivées est critique. Dans cette perspective, nous verrons comment et pourquoi l’amélioration de la photosynthèse, le processus responsable de la fixation du CO2 par les plantes, en est un levier majeur. Nous analyserons comment la compréhension des mécanismes moléculaires en jeux nous permet de proposer des nouveaux designs de photosynthèse capables de fixer plus de CO2 et d’augmenter les productivités de différentes espèces végétales.
+La recherche pharmaceutique souffre de la loi d’Eroom, une loi de Moore inversée et qui se manifeste par une augmentation exponentielle du coût de mise sur le marché de nouvelles molécules. Ainsi en près de soixante ans, l'investissement moyen a augmenté de $100M à plus de $10B par traitement pour un taux de succès en clinique constant d’environ 5% en oncologie. Cette tendance est insoutenable pour les industriels et les systèmes de santé. Heureusement, de nouveaux outils biologiques et computationnels peuvent inverser la tendance. Le 7 février nous analyserons comment l’utilisation des organoides de patients - de petites structures 3D composées de cellules tumorales de patients et répliquant une partie des comportements de la tumeur d’origine chez le patient - nous permettront de développer la nouvelle génération de thérapies.
 
 
-<p>&nbsp;</p>
-
-
-📝 [Formulaire d'inscription pour le 8 Septembre](https://forms.gle/rZsDRVwE5k1SkdV79){:target="_blank"}
-
-<font size="2">  Si vous pensez venir, cela nous aiderait beaucoup de le savoir même si vous n'êtes pas encore tout à fait certains (c'est pour réserver la salle, pas pour vous surveiller, promis !).  </font>
+> 📜 Gustave est CTO et co-fondateur d'Orakl, une jeune startup qui vise à aider les cliniciens et les chercheurs à prédire les réponses des patients en clinique. Avant de pivoter vers l'entrepreneuriat, il a effectué une thèse à l'Institut Pasteur sur le développement de méthodes en immuno-oncologie dans le laboratoire de Physical Microfluidics and Bioengineering sous la direction de Charles Baroud.
 
 <p>&nbsp;</p>
 ---
@@ -61,6 +54,14 @@ L'agenda est le suivant:
 <p>&nbsp;</p>
 
 ## Anciennes présentations
+
+***
+<p>&nbsp;</p>
+
+### Bilan carbone et photosynthèse
+
+*[Adrien Burlacot](https://www.aburlacot.com/Hola){:target="_blank"}*, Les rejets anthropiques de CO2 dans l'atmosphère génèrent une crise climatique sans précédent qui force nos sociétés à décarboner nos modes de production d'énergie. La production d’energie “renouvelable” requier l’usage de terre, au dépend de la production agricole ou des écosystèmes. Pour atteindre les objectifs de transition, l’amélioration de la productivité des plantes cultivées est critique. Dans cette perspective, nous verrons comment et pourquoi l’amélioration de la photosynthèse, le processus responsable de la fixation du CO2 par les plantes, en est un levier majeur. Nous analyserons comment la compréhension des mécanismes moléculaires en jeux nous permet de proposer des nouveaux designs de photosynthèse capables de fixer plus de CO2 et d’augmenter les productivités de différentes espèces végétales.
+
 
 ***
 <p>&nbsp;</p>
