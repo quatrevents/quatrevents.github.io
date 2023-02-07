@@ -12,6 +12,8 @@ Les Quatre Vents sont de retours ! 🎉
 ## Simuler le patient pour mieux le guérir: quels nouveaux paradigmes pour la recherche pharmaceutique en oncologie?
 
 
+Exceptionnellement nous proposerons une présentation hybride: [Lien Visioconférence](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZWI4ZjdlOGQtYTc3ZS00YThmLWJkMjYtZjU0ZDFkNjBhMjBl%40thread.v2/0?context=%7b%22Tid%22%3a%2205e99dad-f83d-4178-b07c-4c03396bbd0b%22%2c%22Oid%22%3a%22c95ea454-a96c-40f3-beda-a1e3105cdd45%22%7d)
+
 <figure class="item">
 <div style="text-align: center"><img src="gustave.png" height="400" /></div>
   <figcaption class="name visuals"></figcaption>
